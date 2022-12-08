@@ -6,6 +6,10 @@ Resources about remote work talk.
 - [Script](https://criskrus.github.io/remote-work-talk/script)
 - [Other resources, videos, etc](https://criskrus.github.io/remote-work-talk/resources)
 
+## Recorded talks
+
+1. [CESINF 22 🇪🇸](https://youtu.be/TEnNxwXu1fc)
+
 <h2 align="center">Hi 👋, I'm Cristian Suarez Dev</h2>
 <h3 align="center">A developer that loves learning</h3>
 
